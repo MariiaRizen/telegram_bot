@@ -9,7 +9,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 
-API_TOKEN = '5937534224:AAEQbUVTrZdlu8K9WsSq_PJ_R4xiaK5U6ck'
+API_TOKEN = 'ропа'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
